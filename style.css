@@ -1,0 +1,1169 @@
+.section-body{
+    margin-top: -11px;
+    margin-right: 6px;
+    height: 600px;
+    width: 100%;
+    background-image: url(images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container1{
+    margin-left: 348px;
+    width: 700px;
+overflow: hidden;
+}
+
+.dad{
+   margin-left: 250px;
+    margin-top: 180px;
+}
+#dormant{
+    margin-left: 80px;
+    width: 500px;
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+#clout{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+   margin-left: 45px;
+    width: 600px;
+    margin-top: -18px;
+}
+#thanks{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    margin-left: 173px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 330px;
+    margin-top: -15px;
+}
+#tire{
+
+margin-top: 20px;
+width: 180px;
+color: white;
+height: 46px;       
+border-radius: 30px;
+font-size: 15px;
+margin-left: 130px;
+border: none;
+background-color:  hsl(171, 66%, 44%);
+font-family: Arial, Helvetica, sans-serif;
+}
+#bore{
+    width: 180px;
+    height: 46px;
+    border-radius: 30px;
+    margin-left:12px;
+    color: white;
+    bottom: 44px;
+    font-size: 15px;
+    border: none;
+    background-color: hsl(233, 100%, 69%);
+}
+
+.container2{
+    overflow: hidden;
+}
+
+#here{
+        font-size: 29px;
+        margin-top: 240px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 500px;
+}
+#acct{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 360px;
+    margin-top: -17px;
+}
+#mummet{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 380px;
+    margin-top: -14px;
+}
+#daddet{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 580px;
+    margin-top: -13px;
+}
+.hired{
+    width: 640px;
+    margin-top: 100px;
+}
+#differ{
+    font-size: 20px;
+    margin-left: 750px;
+    margin-top: -420px; 
+}
+#stem{
+    font-size: 16px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 750px;
+    margin-top: -12px;
+    width: 395px;
+    line-height: 25px;
+}
+#clare{
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 750px;
+    margin-top: 40px;
+}
+#hert{
+    font-size: 16px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 750px;
+    margin-top: -14px;
+    width: 395px; 
+    line-height: 25px;
+}
+#aboki{
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 750px;
+    margin-top: 36px;
+}
+#beggar{
+    font-size: 16px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 750px;
+    margin-top: -14px;
+    width: 380px; 
+    line-height: 25px;
+}
+#mourt{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 240px;
+}
+#batman{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 370px;
+    margin-top: -5px;
+}
+#justice{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 560px;
+    margin-top: -14px;
+}
+.yes{
+    margin-top: 100px;
+    margin-left: 260px;
+    width: 800px;
+}
+#cun{
+    font-size: 31px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+     margin-top: 40px;
+}
+#sele{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 497px;
+    margin-top: -23px;
+}
+.cyber{
+    margin-left: 240px;
+    margin-top: 39px;
+}
+#okie{
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 190px;
+    margin-top: 30px;
+}
+#process{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 110px;
+    margin-top:-6px;
+}
+#justwasp{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 115px;
+    margin-top:-14px;
+}
+#niimat{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 233px;
+    margin-top:-14px;
+}
+.hypo{
+    margin-left: 620px;
+    position: relative;
+    bottom: 185px;
+}
+#hact{
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 570px;
+    margin-top: -160px;
+}
+#declare{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 490px;
+    margin-top: -4px;
+}
+#bethep{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 585px;
+    margin-top: -12px;
+}
+
+.methoid{
+    margin-left: 1010px;
+    position: relative;
+    bottom: 200px;
+}
+#methd{
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 975px;
+    margin-top: -177px;
+}
+#commot{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 870px;
+    margin-top: -5px;
+}
+#dettol{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 990px;
+    margin-top: -12px;
+}
+.tripple{
+    margin-left: 90px;
+    margin-top: 130px;
+}
+.task{
+  margin-left: 90px;
+}
+.shred{
+  margin-left: 100px;
+}
+.it{
+ margin-left: 100px;
+}
+.manners{
+    margin-left: 100px;
+}
+#eart{
+    font-size: 31px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 475px;
+    margin-top: 207px;
+}
+#yeras{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 360px;
+    margin-top: -16px;
+}
+#registrar{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 510px;
+    margin-top: -16px;
+}
+#bruvva{
+    margin-left: 500px;
+    margin-top: 20px;
+    width: 180px;
+    height: 46px;    
+    color: white;   
+    border-radius: 30px;
+    font-size: 15px;
+    border: none;
+    background-color:  hsl(171, 66%, 44%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#knuckle{
+    margin-left: 690px;
+    position: relative;
+    bottom: 44px;
+    width: 180px;
+    color: white;
+    height: 46px;       
+    border-radius: 30px;
+    font-size: 15px;
+    border: none;
+    background-color:hsl(233, 100%, 69%);;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.omohhh{
+    position: relative;
+    top: 10px;
+width: 100%;
+background-color: aliceblue;
+height: 200px;
+}
+.dato{
+    width: 80px;
+    margin-left: 120px;
+    margin-top: 60px;
+    height: 80px;
+}
+#fourth{
+   color: black;
+   margin-left: 300px;
+   margin-top: -70px;
+   font-size: 19px;
+}
+#mayi{
+    color: black;
+    margin-left: 300px;
+    margin-top: 16px;
+    font-size: 19px;
+}
+#itsme{
+    color: black;
+    margin-left: 470px;
+    margin-top: -80px;
+    font-size: 19px;
+}
+#duck{
+    color: black;
+    margin-left: 470px;
+    margin-top: 4px;
+    font-size: 19px;
+}
+#football{
+    color: black;
+    margin-left: 680px;
+    margin-top: -80px;
+    font-size: 19px;
+}
+.imagined{
+    margin-left: 990px;
+}
+.economy{
+    margin-left: 1040px;
+    position: relative;
+    bottom: 24px;
+}
+.economics{
+    margin-left: 1090px;
+    position: relative;
+    bottom: 49px;
+}
+@media screen and (max-width:780px){
+  .section-body{
+    margin-left: -6px;
+    height: 400px;
+    width: 104%;
+    background-image: url(images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  } 
+      .section-body {
+        margin-left: -6px;
+        height: 400px;
+        width: 128%;
+        background-image: url(images/bg-header-desktop.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    } 
+  .container1{
+  margin-left: 8px;
+  width: 700px;
+  overflow: hidden;
+}
+   .dad{
+    margin-left: 154px;
+    margin-top: 140px;
+   }
+   #dormant{
+   font-size: 27px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: 40px;
+   margin-left: 90px;
+   width: 250px;
+   text-align: center;
+   }
+   #clout{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 61px;
+    line-height: 26px;
+    width: 300px;
+    text-align: center;
+    margin-top: -10px;
+   }
+   #thanks{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 61px;
+    line-height: 26px;
+    width: 300px;
+    text-align: center;
+    margin-top: -17px;
+   }
+   #tire{
+    margin-left: 100px;
+margin-top: 20px;
+width: 220px;
+height: 56px;       
+border-radius: 30px;
+font-size: 15px;
+color: white;
+border: none;
+background-color:  hsl(171, 66%, 44%);
+font-family: Arial, Helvetica, sans-serif;
+   }
+   #bore{
+    margin-left: 100px;
+    margin-top: 60px;
+    width: 220px;
+    height: 56px;       
+    border-radius: 30px;
+    font-size: 15px;
+    color: white;
+    border: none;
+    background-color: hsl(233, 100%, 69%);
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   #here{
+    font-size: 27px;
+    width: 280px;
+    text-align: center;
+    margin-top: 420px;
+    line-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 70px;
+}
+#acct{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    line-height: 25px;
+    text-align: center;
+    width: 310px;
+    margin-top: -17px;
+}
+#mummet{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    line-height: 25px;
+    text-align: center;
+    width: 310px;
+    margin-top: -17px;
+}
+#daddet{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    line-height: 25px;
+    text-align: center;
+    width: 310px;
+    margin-top: -17px; 
+}
+.hired{
+    width: 360px;
+    margin-left: 26px;
+    margin-top: 300px;
+}
+.box{
+    text-align: center;
+}
+#differ{
+    font-size: 30px;
+    margin-left: 110px;
+    margin-top: 160px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+#stem{
+    font-size: 16px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-top: -12px;
+    width: 395px;
+    text-align: center; 
+    line-height: 25px;
+}
+#clare{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 120px;
+    margin-top: 90px;
+}
+#hert{
+    font-size: 16px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: -14px;
+    width: 345px;
+    text-align: center; 
+    line-height: 25px;
+}
+#aboki{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 93px;
+    margin-top: 86px;
+}
+#beggar{
+    font-size: 16px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 13px;
+    margin-top: -14px;
+    width: 380px; 
+    text-align: center;
+    line-height: 25px;
+}
+#mourt{
+    font-size: 30px;
+    margin-left: 73px;
+    width: 260px;
+    font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 260px;
+}
+#batman{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    width: 270px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 68px;
+    margin-top: -5px;
+    line-height: 25px;
+}
+#justice{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 90px;
+    margin-top: -14px;
+}.yes{
+    margin-top: 130px;
+    margin-left: 12px;
+    width: 390px;
+}
+#cun{
+    font-size: 31px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 290px;
+    margin-left: 60px;
+     margin-top:90px;
+}
+#sele{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 34px;
+    margin-top: -23px;
+}
+.cyber{
+    margin-left: 180px;
+    margin-top: 29px;
+}
+#okie{
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 120px;
+    margin-top: 5px;
+}
+#process{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 34px;
+    margin-top:-12px;
+}
+#justwasp{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 43px;
+    
+    margin-top:-14px;
+}
+#niimat{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 163px;
+    margin-top:-14px;
+}
+.hypo{
+    margin-left: 180px;
+    position: relative;
+    bottom: -45px;
+}
+#hact{
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+#declare{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+#bethep{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 125px;
+    margin-top: -16px;
+}
+.methoid{
+    margin-left: 170px;
+    position: relative;
+    bottom: -60px;
+}
+#methd{
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 128px;
+    margin-top: 67px;
+}
+#commot{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 27px;
+    margin-top: -10px;
+}
+#dettol{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 140px;
+    margin-top: -14px;
+}
+.tripple{
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.task{
+  margin-left: 140px;
+  margin-top: 20px;
+}
+.shred{
+  margin-left: 120px;
+  margin-top: 26px;
+}
+.it{
+ margin-left: 130px;
+ margin-top: 28px;
+}
+.manners{
+    margin-left: 130px;
+    margin-top: 25px;
+}
+#eart{
+    font-size: 31px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 46px;
+    width: 310px;
+    margin-top: 27px;
+    text-align: center;
+}
+#yeras{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    width: 350px;
+    text-align: center;
+    margin-top: -16px;
+}
+#registrar{
+    font-size: 17px;
+    color:hsl(233, 100%, 69%) ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    width: 300px;
+    text-align: center;
+    margin-top: -16px;
+}
+#bruvva{
+margin-left: 20px;
+margin-top: 20px;
+width: 180px;
+height: 56px;       
+border-radius: 30px;
+font-size: 15px;
+color: white;
+border: none;
+background-color:  hsl(171, 66%, 44%);
+font-family: Arial, Helvetica, sans-serif;
+}
+#knuckle{
+    margin-left: 210px;
+    margin-top: -11px;
+    width: 180px;
+    height: 56px;       
+    border-radius: 30px;
+    font-size: 15px;
+    color: white;
+    border: none;
+    background-color:  hsl(233, 100%, 69%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    width: 100%;
+   background-color: black;
+}
+.dato{
+    width: 65px;
+    margin-left: 180px;
+    margin-top: 14px;
+    height: 65px;
+}
+#fourth{
+   color: black;
+   margin-left: 190px;
+   margin-top: 2px;
+   font-size: 19px;
+}
+#mayi{
+    color: black;
+    margin-left:173px;
+    margin-top: -4px;
+    font-size: 19px;
+}
+#itsme{
+    color: black;
+    margin-left: 160px;
+    margin-top: -4px;
+    font-size: 19px;
+}
+#duck{
+    color: black;
+    margin-left: 180px;
+    margin-top: -4px;
+    font-size: 19px;
+}
+#football{
+    color: black;
+    margin-left: 170px;
+    margin-top: -4px;
+    font-size: 19px;
+}
+.imagined{
+    margin-left: 160px;
+    margin-top: 20px;
+}
+.economy{
+    margin-left: 20px;
+    position: relative;
+    bottom: 2px;
+}
+.economics{
+    margin-left: 20px;
+    position: relative;
+    bottom: 2px;
+}
+}
+
+@media screen and (max-width:360px){
+    #bore {
+        overflow: hidden;
+        position: relative;
+        top: -21px;
+        left: 0px;
+        /* margin-top: 62px; */
+        width: 220px;
+        height: 56px;
+        border-radius: 30px;
+        font-size: 15px;
+        color: white;
+        border: none;
+        background-color: hsl(233, 100%, 69%);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .container1{
+        width: 100%;
+        height: 900px;
+    overflow: hidden;
+    }
+    .section-body {
+        margin-left: -6px;
+        height: 400px;
+        width: 130%;
+        background-image: url(images/bg-header-desktop.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .dad {
+        margin-left: 130px;
+        margin-top: 140px;
+    }
+    #dormant {
+        font-size: 28px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 40px;
+        margin-left: 65px;
+        width: 250px;
+        text-align: center;
+    }
+    #clout {
+        font-size: 18px;
+        color: hsl(233, 100%, 69%);
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 34px;
+        line-height: 26px;
+        width: 305px;
+        text-align: center;
+        margin-top: -10px;
+    }
+    #thanks {
+        font-size: 18px;
+        color: hsl(233, 100%, 69%);
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 38px;
+        line-height: 26px;
+        width: 300px;
+        text-align: center;
+        margin-top: -17px;
+    }
+    #tire {
+        margin-left: 71px;
+        margin-top: 20px;
+        width: 229px;
+        height: 56px;
+        border-radius: 30px;
+        font-size: 15px;
+        color: white;
+        border: none;
+        background-color: hsl(171, 66%, 44%);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #bore {
+        overflow: hidden;
+        position: relative;
+        top: -24px;
+        left: -26px;
+        width: 229px;
+        height: 56px;
+        border-radius: 30px;
+        font-size: 15px;
+        color: white;
+        border: none;
+        background-color: hsl(233, 100%, 69%);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+        #here {
+            font-size: 27px;
+            width: 280px;
+            text-align: center;
+            margin-top: 407px;
+            line-height: 35px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 50px;
+        }
+        #acct {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 31px;
+            line-height: 25px;
+            text-align: center;
+            width: 310px;
+            margin-top: -17px;
+        }
+        #mummet {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 32px;
+            line-height: 25px;
+            text-align: center;
+            width: 310px;
+            margin-top: -17px;
+        }
+        #daddet {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 44px;
+            line-height: 25px;
+            text-align: center;
+            width: 288px;
+            margin-top: -17px;
+        }
+        .hired {
+            width: 360px;
+            margin-left: 6px;
+            margin-top: 45px;
+        }
+        #differ {
+            font-size: 30px;
+            margin-left: 77px;
+            margin-top: 59px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        #stem {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 10px;
+            margin-top: -12px;
+            width: 350px;
+            text-align: center;
+            line-height: 25px;
+        }
+        #clare {
+            font-size: 30px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 90px;
+            margin-top: 73px;
+        }
+        #hert {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 14px;
+            margin-top: -15px;
+            width: 345px;
+            text-align: center;
+            line-height: 25px;
+        }
+        #aboki {
+            font-size: 30px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 55px;
+            margin-top: 70px;
+            width: 252px;
+    }
+    
+    #beggar {
+        font-size: 18px;
+        color: hsl(233, 100%, 69%);
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 1px;
+        margin-top: -14px;
+        width: 367px;
+        text-align: center;
+        line-height: 25px;
+    }
+        #mourt {
+            font-size: 30px;
+            margin-left: 59px;
+            width: 260px;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            margin-top: 164px;
+        }
+        #batman {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            width: 301px;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 34px;
+            margin-top: -5px;
+            line-height: 25px;
+        }
+        #justice {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 70px;
+            margin-top: -17px;
+            text-align: center;
+        }
+        .yes {
+            margin-top: 41px;
+            margin-left: 3px;
+            width: 370px;
+        }
+        #cun {
+            font-size: 31px;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            width: 290px;
+            margin-left: 44px;
+            margin-top: 71px;
+        }
+        #sele {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 7px;
+            width: 361px;
+            margin-top: -23px;
+        }
+        .cyber {
+            margin-left: 160px;
+            margin-top: 37px;
+        }
+        #okie{
+            font-size: 21px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 100px;
+            margin-top: 5px;
+        }
+        #process {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 6px;
+            width: 363px;
+            margin-top: -12px;
+        }
+        #justwasp {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 19px;
+            /* text-align: center; */
+            width: 335px;
+            margin-top: -14px;
+        }
+        #declare {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 13px;
+            width: 342px;
+            margin-top: -10px;
+        }
+        .hypo{
+            margin-left: 160px;
+            position: relative;
+            bottom: -45px;
+        }
+        #hact{
+            font-size: 21px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 110px;
+            margin-top: 50px;
+        }
+        #bethep {
+            font-size: 18px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 54px;
+            margin-top: -39px;
+        }
+        .methoid {
+            margin-left: 150px;
+            position: relative;
+            bottom: -45px;
+        }
+        #methd {
+            font-size: 21px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 104px;
+            margin-top: 56px;
+        }
+        #commot {
+            font-size: 17px;
+            color: hsl(233, 100%, 69%);
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 5px;
+            width: 355px;
+        }
+        footer {
+            width: 127%;
+            top: 10px;
+            position: relative;
+            right: 8px;
+            height: 352px;
+        }
+       
+    #knuckle {
+        margin-left: 200px;
+        margin-top: -11px;
+        width: 165px;
+        height: 56px;
+        border-radius: 30px;
+        font-size: 15px;
+        color: white;
+        border: none;
+        background-color: hsl(233, 100%, 69%);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #bruvva {
+        margin-left: 20px;
+        margin-top: 20px;
+        width: 169px;
+        height: 56px;
+        border-radius: 30px;
+        font-size: 15px;
+        color: white;
+        border: none;
+        background-color: hsl(171, 66%, 44%);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #registrar {
+        font-size: 17px;
+        color: hsl(233, 100%, 69%);
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 34px;
+        width: 300px;
+        text-align: center;
+        margin-top: -16px;
+    }
+    #yeras {
+        font-size: 17px;
+        color: hsl(233, 100%, 69%);
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 25px;
+        width: 327px;
+        text-align: center;
+        margin-top: -16px;
+    }
+    #eart {
+        font-size: 31px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 36px;
+        width: 299px;
+        margin-top: 27px;
+        text-align: center;
+    }
+}
