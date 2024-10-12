@@ -808,7 +808,7 @@ footer{
 }
 }
 
-@media screen and (max-width:360px){
+@media screen and (max-width:780px){
     #bore {
         overflow: hidden;
         position: relative;
